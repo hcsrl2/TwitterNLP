@@ -8,7 +8,7 @@ nltk.download('punkt')
 from nltk.tokenize import word_tokenize
 
 words = word_tokenize(text)
-#Create a dictionary to store the weight score of each word, take data from sentimentresults
+#Create a dictionary to store the weight score of each word, take data from sentiment_nltk
 word_weights = {}
 
 # Assume that you have a list of tuples where each tuple contains a word and its weight score
