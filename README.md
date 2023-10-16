@@ -1,4 +1,5 @@
-# Environmental Sentiment Analysis Over a Decade
+
+# Deep Learning Sentiment Analysis of Twitter Data
 
 This project entails an extensive analysis of public sentiment and trends regarding environmental leadership and environmental consciousness over a span of ten years (2012-2022). 
 
