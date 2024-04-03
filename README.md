@@ -8,7 +8,7 @@ This project investigates how public opinions and discussions around environment
 
 * A large dataset of tweets collected from the Twitter API. Search queries will focus on keywords and hashtags related to environmental issues, climate change, sustainability, and similar topics.
 
-##Methodology##
+## Methodology ##
 
 * ##Data Collection:##
 * Use the Twitter API to collect a substantial volume of tweets relevant to environmental topics.
